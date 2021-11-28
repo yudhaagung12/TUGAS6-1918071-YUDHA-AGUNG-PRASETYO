@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas6_Yudha</string>
+    <string-array name="city_list">
+        <item>Bandung</item>
+        <item>Samarinda</item>
+        <item>Surabaya</item>
+        <item>Malang</item>
+        <item>Lumajang</item>
+    </string-array>
+
+</resources>
